@@ -1,0 +1,22 @@
+# Sanal ortam
+.venv/
+
+# Ortam değişkenleri (hassas bilgiler)
+.env
+
+# Python önbellek
+__pycache__/
+*.pyc
+
+# Ham veri (repo'ya dahil edilmez)
+data/raw/
+
+# Eğitilmiş model dosyaları
+*.joblib
+
+# ChromaDB yerel veritabanı
+data/kb/chroma_store/
+
+# IDE
+.vscode/
+.idea/

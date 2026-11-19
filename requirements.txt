@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-ollama
+chromadb
+mcp
+langgraph
+scikit-learn
+pandas
+joblib
+python-dotenv
+requests
