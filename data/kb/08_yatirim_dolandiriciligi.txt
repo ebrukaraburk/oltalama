@@ -1,0 +1,23 @@
+Başlık: Sahte Yatırım Platformu Dolandırıcılığı
+
+Tür: SMS / URL / Sosyal Medya
+
+Nasıl çalışır:
+Sosyal medya reklamları, SMS veya arama yoluyla "garantili yüksek getiri", "risksiz yatırım" veya "yapay zekâ destekli otomatik kazanç" vaat eden platformlar tanıtılır. Mağdur küçük bir yatırımla başlar ve sahte panelde kârının arttığını görür. Daha fazla yatırım yapması teşvik edilir. Para çekmek istediğinde "vergi", "komisyon" veya "sigorta ücreti" gibi ek ödemeler istenir. Sonunda platform kapanır veya iletişim kesilir.
+
+Şüpheli işaretler:
+- "Garantili kazanç", "risksiz yatırım", "günlük %X getiri" vaatleri
+- SPK lisansı veya yasal düzenleme bilgisinin olmaması
+- Ünlü kişilerin izinsiz kullanıldığı sahte onay haberleri
+- Para yatırma kolaylığı ancak çekme zorluğu
+- Para çekmek için ek ödeme istenmesi
+- Yalnızca kripto para veya havale ile ödeme kabul edilmesi
+- Müşteri temsilcisinin sürekli daha fazla yatırım yapmanız için baskı yapması
+
+Nasıl korunulur:
+- Yatırım yapmadan önce platformun SPK (Sermaye Piyasası Kurulu) lisansını kontrol edin.
+- Garantili ve risksiz getiri vaatlerine inanmayın; her yatırım risk içerir.
+- Tanımadığınız kişilerin yatırım tavsiyelerine uymayın.
+- Sosyal medyadaki reklam ve tanıtımlara şüpheyle yaklaşın.
+- SPK'nın uyarı listelerini ve kara listeyi düzenli kontrol edin.
+- Mağdur olduğunuzu düşünüyorsanız derhal bankayı ve savcılığı bilgilendirin.

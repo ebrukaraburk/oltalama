@@ -1,0 +1,21 @@
+Başlık: Banka Hesap Güncelleme Dolandırıcılığı
+
+Tür: E-posta
+
+Nasıl çalışır:
+Kurbanın e-posta adresine bankanın resmi görünümünü taklit eden bir e-posta gönderilir. E-postada "Hesabınız askıya alınacak", "Güvenlik güncellemesi gerekiyor" veya "Bilgilerinizi doğrulayın" gibi ifadeler yer alır. Bağlantıya tıklayan kurban, bankanın web sitesine çok benzeyen sahte bir giriş sayfasına yönlendirilir. Girilen kullanıcı adı, şifre ve kart bilgileri dolandırıcıya iletilir.
+
+Şüpheli işaretler:
+- Gönderen adresinin banka alan adıyla birebir eşleşmemesi (ör. fazladan harf veya farklı uzantı)
+- E-postada kişisel isminiz yerine "Sayın Müşterimiz" gibi genel hitap kullanılması
+- Yazım ve dilbilgisi hataları içermesi
+- Acil süre sınırı belirten ifadeler ("24 saat içinde hesabınız kapatılacaktır")
+- Bağlantının üzerine gelindiğinde görünen URL'nin banka adresiyle uyuşmaması
+- Hesap numarası, şifre veya CVV gibi hassas bilgilerin istenmesi
+
+Nasıl korunulur:
+- Bankalar e-posta ile asla şifre, CVV veya tam kart numarası istemez.
+- E-postadaki bağlantılara tıklamak yerine bankanın resmi sitesini tarayıcıya elle yazın.
+- Şüpheli e-postaları bankanızın resmi müşteri hizmetleri hattından doğrulayın.
+- E-posta başlıklarını (header) inceleyerek gerçek gönderen sunucuyu kontrol edin.
+- İki faktörlü kimlik doğrulama (2FA) kullanın.

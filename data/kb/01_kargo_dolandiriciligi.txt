@@ -1,0 +1,21 @@
+Başlık: Kargo Teslimat Bildirimi Dolandırıcılığı
+
+Tür: SMS
+
+Nasıl çalışır:
+Kurbanın telefonuna "Kargonuz teslim edilemedi", "Gümrükte bekleyen paketiniz var" veya "Teslimat adresinizi güncelleyin" gibi mesajlar gönderilir. Mesajda yer alan bağlantı, gerçek bir kargo firmasının sitesine benzeyen sahte bir sayfaya yönlendirir. Sahte sayfada kişisel bilgiler, kredi kartı numarası veya küçük bir "yeniden teslimat ücreti" istenir.
+
+Şüpheli işaretler:
+- Beklemediğiniz bir kargo bildirimi almanız
+- Mesajdaki bağlantının kısa URL servisi (bit.ly, tinyurl vb.) ile kısaltılmış olması
+- Kargo takip numarasının verilmemesi veya anlamsız karakterler içermesi
+- Acil işlem yapmanız gerektiğini belirten baskıcı bir dil kullanılması
+- Küçük bir ödeme veya kart bilgisi istenmesi
+- Gönderen numaranın bilinmeyen veya yabancı ülke kodlu olması
+
+Nasıl korunulur:
+- Kargo takibini her zaman resmi kargo firmasının web sitesinden veya uygulamasından yapın.
+- SMS'teki bağlantılara tıklamayın; tarayıcınıza resmi adresi elle yazın.
+- Kargo firmaları teslimat için asla kredi kartı bilgisi veya ödeme istemez.
+- Şüpheli mesajları kargo firmasının resmi müşteri hizmetleri numarasından doğrulayın.
+- Mesajı ilgili kuruma ve BTK'ya bildirin.

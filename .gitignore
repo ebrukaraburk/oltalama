@@ -16,6 +16,7 @@ data/raw/
 
 # ChromaDB yerel veritabanı
 data/kb/chroma_store/
+data/chroma/
 
 # IDE
 .vscode/

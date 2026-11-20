@@ -1,0 +1,21 @@
+Başlık: Sahte Teknik Destek Dolandırıcılığı
+
+Tür: Telefon / URL / Pop-up
+
+Nasıl çalışır:
+Bilgisayar veya telefon kullanıcısının ekranında aniden "Bilgisayarınıza virüs bulaştı!", "Sisteminiz tehlikede!" gibi sahte uyarı pencereleri (pop-up) görüntülenir. Uyarıda bir telefon numarası aranması veya bir yazılım indirilmesi istenir. Aranan numaradaki sahte teknik destek personeli, uzaktan erişim programı kurulmasını ve "temizlik ücreti" ödenmesini talep eder. Uzaktan erişim sağlandığında kişisel dosyalara, şifrelere ve banka bilgilerine erişim mümkün hâle gelir.
+
+Şüpheli işaretler:
+- Tarayıcıda veya masaüstünde aniden beliren büyük uyarı pencereleri
+- "Bilgisayarınız kilitlenecek" gibi korkutucu mesajlar
+- Teknik destek için belirtilen numaranın resmi bir firmaya ait olmaması
+- Uzaktan erişim yazılımı (TeamViewer, AnyDesk vb.) kurulmasının istenmesi
+- Hizmet için hediye kartı veya kripto para ile ödeme istenmesi
+- Arayanın aşırı ısrarcı ve acil olduğunu belirten tonu
+
+Nasıl korunulur:
+- Tarayıcıdaki pop-up uyarılarına inanmayın; tarayıcıyı kapatın (Ctrl+W veya Görev Yöneticisi).
+- Resmi teknik destek numaralarını yalnızca ürünün kendi web sitesinden öğrenin.
+- Tanımadığınız kişilere asla uzaktan erişim programı ile bilgisayarınıza erişim vermeyin.
+- İşletim sisteminizi ve antivirüs yazılımınızı güncel tutun.
+- Teknik destek ücreti için hediye kartı veya kripto para isteyen herkesi reddedin.

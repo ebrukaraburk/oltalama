@@ -1,0 +1,21 @@
+Başlık: Akraba veya Tanıdık Taklidi Dolandırıcılığı
+
+Tür: SMS / WhatsApp / Telefon
+
+Nasıl çalışır:
+Dolandırıcı, kurbanın yakın akrabası veya arkadaşı gibi davranarak mesaj gönderir. "Numaram değişti", "Telefonum bozuldu, bu yeni numaram" gibi bir giriş yapar. Ardından acil bir durumu bahane ederek para transferi ister: "Kaza yaptım", "Hastanedeyim", "Faturamı ödeyemiyorum, acil para lazım" gibi senaryolar kullanır. Ses taklidi veya yapay zekâ ile üretilmiş ses klonlama teknolojileri de kullanılabilir.
+
+Şüpheli işaretler:
+- Yakınınızın yeni ve bilinmeyen bir numaradan yazması
+- Acil para ihtiyacı ve hızlı transfer baskısı
+- Sesli veya görüntülü aramadan kaçınma
+- Yalnızca mesajlaşma yoluyla iletişim kurulması
+- Para transferinin üçüncü bir kişinin hesabına istenmesi
+- Kişisel sorulara belirsiz veya geçiştirici yanıtlar verilmesi
+
+Nasıl korunulur:
+- Yeni numaradan yazan kişiyi bildiğiniz eski numarasından arayarak doğrulayın.
+- Acil para isteklerinde panik yapmayın; doğrulama yapana kadar ödeme yapmayın.
+- Aile içinde bir "güvenlik sorusu" veya "kod kelime" belirleyin.
+- Ses klonlama ihtimaline karşı yalnızca sesli aramaya güvenmeyin; görüntülü arama tercih edin.
+- Bu tür mesajları polise ve operatörünüze bildirin.

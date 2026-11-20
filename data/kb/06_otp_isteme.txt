@@ -1,0 +1,20 @@
+Başlık: OTP (Tek Kullanımlık Şifre) Çalma Dolandırıcılığı
+
+Tür: SMS / Telefon
+
+Nasıl çalışır:
+Dolandırıcı, kurbanı arayarak veya mesaj göndererek kendisini banka çalışanı, kargo görevlisi ya da teknik destek personeli olarak tanıtır. "Hesabınızda şüpheli bir işlem tespit ettik, doğrulama için size gelen kodu paylaşmanız gerekiyor" der. Aslında dolandırıcı, kurbanın hesabına giriş yapmaya veya para transferi başlatmaya çalışmaktadır ve işlemi tamamlamak için kurbanın telefonuna gelen OTP koduna ihtiyaç duymaktadır.
+
+Şüpheli işaretler:
+- Herhangi bir kurumun telefonla veya SMS ile OTP/doğrulama kodu istemesi
+- Arayanın acil ve panik havası yaratması
+- "Kimseyle paylaşmayın" uyarısı taşıyan bir kodu paylaşmanızın istenmesi
+- Arayanın sizi hatta tutarak düşünmenize fırsat vermemesi
+- Daha önce herhangi bir işlem başlatmamış olmanıza rağmen doğrulama kodu gelmesi
+
+Nasıl korunulur:
+- OTP ve doğrulama kodlarını hiçbir koşulda kimseyle paylaşmayın. Hiçbir banka veya kurum bu kodları istemez.
+- Şüpheli bir arama aldığınızda telefonu kapatıp kurumun resmi numarasını arayın.
+- Beklemediğiniz bir doğrulama kodu gelirse hesabınıza yetkisiz erişim denendiğini anlayın ve şifrenizi değiştirin.
+- Banka uygulamalarında bildirim ve işlem onay özelliklerini aktif edin.
+- Bu tür aramaları bankanızın dolandırıcılık ihbar hattına bildirin.

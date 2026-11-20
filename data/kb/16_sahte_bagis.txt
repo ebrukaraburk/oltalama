@@ -1,0 +1,21 @@
+Başlık: Sahte Bağış Kampanyası Dolandırıcılığı
+
+Tür: SMS / Sosyal Medya / E-posta
+
+Nasıl çalışır:
+Doğal afetler, savaşlar veya bireysel yardım hikâyeleri gibi duygusal konular istismar edilerek sahte bağış kampanyaları düzenlenir. Sosyal medyada, SMS ile veya e-posta yoluyla "acil yardım" çağrısı yapılır. Bağış için verilen hesap numaraları dolandırıcılara aittir. Bazı varyantlarda sahte bir bağış sitesi üzerinden kredi kartı bilgileri toplanır.
+
+Şüpheli işaretler:
+- Bağış hesabının bilinen bir STK'ya değil, kişisel bir hesaba ait olması
+- Kampanyanın yalnızca sosyal medyada, resmi kaynak olmadan yayılması
+- Duygusal baskı ile acil ödeme istenmesi
+- Bağışın yalnızca kripto para veya havale ile kabul edilmesi
+- STK adının gerçek bir kuruluşa çok benzer ama farklı olması
+- Kampanya hakkında resmi kurumlarda bilgi bulunamaması
+
+Nasıl korunulur:
+- Bağışlarınızı yalnızca tanınmış ve resmi STK'ların hesaplarına yapın.
+- STK'nın gerçekliğini Sivil Toplum ile İlişkiler Genel Müdürlüğü kayıtlarından doğrulayın.
+- Sosyal medyada yayılan kampanyaları bağımsız kaynaklardan teyit edin.
+- Kişisel hesaplara bağış yapmaktan kaçının.
+- Bağış makbuzu ve resmi belge isteyin.

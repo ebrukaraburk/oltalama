@@ -1,0 +1,21 @@
+Başlık: Ücretsiz Hediye / Kampanya Tuzağı
+
+Tür: URL / Sosyal Medya
+
+Nasıl çalışır:
+Sosyal medyada veya mesajlaşma uygulamalarında "X markası kuruluş yıl dönümü nedeniyle herkese ücretsiz ürün dağıtıyor" gibi sahte kampanya bağlantıları paylaşılır. Bağlantıya tıklayan mağdurdan anketi doldurması ve bağlantıyı belirli sayıda kişiyle paylaşması istenir. Son aşamada kişisel bilgiler, kart bilgileri veya "kargo ücreti" istenir. Paylaşım zorunluluğu, dolandırıcılığın viral olarak yayılmasını sağlar.
+
+Şüpheli işaretler:
+- Bilinen bir markanın sosyal medyada doğrulanamayan kampanyası
+- Bağlantının markanın resmi sitesi yerine farklı bir alan adına yönlendirmesi
+- Hediyeyi almak için bağlantıyı başkalarıyla paylaşma zorunluluğu
+- Çok aşamalı anketler ve sürekli "bir adım daha" yapısı
+- Son aşamada kargo/vergi ücreti olarak ödeme istenmesi
+- Bağlantının kısa URL servisi ile maskelenmesi
+
+Nasıl korunulur:
+- Markaların kampanyalarını resmi sosyal medya hesaplarından ve web sitelerinden doğrulayın.
+- "Paylaş ve kazan" zorunluluğu olan bağlantılara şüpheyle yaklaşın.
+- Ücretsiz ürün için kart bilgisi veya ödeme istenen kampanyalar sahte olduğunun güçlü bir işaretidir.
+- Böyle bağlantıları arkadaşlarınıza iletmeyin; dolandırıcılığın yayılmasına katkıda bulunursunuz.
+- Markanın resmi hesabından konuyu sorgulayın.

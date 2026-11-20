@@ -1,0 +1,21 @@
+Başlık: Sahte Devlet Yardımı / Sosyal Destek Dolandırıcılığı
+
+Tür: SMS / WhatsApp
+
+Nasıl çalışır:
+Vatandaşlara "Devlet yardımı başvurunuz onaylandı", "Sosyal destek ödemesi hesabınıza yatırılacak" veya "Yeni yardım programına başvurmak için bilgilerinizi girin" şeklinde mesajlar gönderilir. Mesajdaki bağlantı sahte bir başvuru formuna yönlendirir. Formda TC kimlik numarası, banka hesap bilgileri ve kart bilgileri istenir. Toplanan bilgiler kimlik hırsızlığı ve hesap boşaltma için kullanılır.
+
+Şüpheli işaretler:
+- Başvuru yapmadığınız bir yardım programı hakkında bildirim almanız
+- SMS veya WhatsApp ile devlet yardımı bağlantısı gönderilmesi
+- Bağlantının resmi devlet alan adları (.gov.tr) dışında bir adrese yönlendirmesi
+- Yardım almak için kart bilgisi veya "doğrulama ücreti" istenmesi
+- Mesajda resmi kurum logosu olmasına rağmen yazım hataları bulunması
+- Acil başvuru tarihi baskısı
+
+Nasıl korunulur:
+- Devlet yardımı başvurularını yalnızca e-Devlet (turkiye.gov.tr) veya ilgili kurumun resmi sitesinden yapın.
+- Devlet kurumları SMS ile bağlantı göndererek bilgi toplamaz.
+- Yardım almak için asla kart bilgisi veya ödeme yapılması gerekmez.
+- Şüpheli mesajları ALO 181 veya ALO 155 hatlarına bildirin.
+- Sosyal yardım başvurularınızı yerel Sosyal Yardımlaşma ve Dayanışma Vakfı'ndan takip edin.

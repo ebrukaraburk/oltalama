@@ -1,0 +1,21 @@
+Başlık: Ödül ve Çekiliş Dolandırıcılığı
+
+Tür: SMS / E-posta
+
+Nasıl çalışır:
+Kurbana "Tebrikler! Çekilişimizden araba/telefon/para kazandınız" şeklinde mesaj gönderilir. Ödülü almak için bir bağlantıya tıklaması veya bir numarayı araması istenir. Sahte sitede kişisel bilgiler, vergi/kargo ücreti adı altında ödeme veya banka hesap bilgileri talep edilir. Bazı varyantlarda mağdurun aradığı numara yüksek tarifeli olup yüksek telefon faturasına yol açar.
+
+Şüpheli işaretler:
+- Katılmadığınız bir çekilişten ödül kazanmanız
+- Ödülü almak için ön ödeme, vergi veya kargo ücreti istenmesi
+- "Son 24 saat" gibi aciliyet baskısı yapılması
+- Mesajda kurumsal iletişim bilgilerinin olmaması
+- Gönderen numaranın veya e-postanın resmi bir kurumla ilişkisiz olması
+- Ödül miktarının gerçekçi olmayacak kadar yüksek olması
+
+Nasıl korunulur:
+- Katılmadığınız bir çekilişten ödül kazanamazsınız; bu temel kuralı hatırlayın.
+- Ödül almak için asla ön ödeme yapmayın.
+- Çekiliş düzenleyen firmaların resmi web sitelerinden sonuçları kontrol edin.
+- Kişisel ve finansal bilgilerinizi paylaşmayın.
+- Bu tür mesajları engellenmesi için operatörünüze ve BTK'ya bildirin.

@@ -1,0 +1,20 @@
+Başlık: WhatsApp / Mesajlaşma Uygulaması Hesap Ele Geçirme
+
+Tür: SMS / WhatsApp
+
+Nasıl çalışır:
+Dolandırıcı, kurbanın telefon numarasıyla mesajlaşma uygulamasına (WhatsApp, Telegram vb.) kayıt olmaya çalışır. Uygulama, kurbanın telefonuna bir doğrulama kodu gönderir. Dolandırıcı daha sonra kurbana tanıdık biri gibi mesaj atarak veya farklı bir bahane uydurup "Sana yanlışlıkla bir kod gönderdim, iletebilir misin?" der. Kod paylaşıldığında hesap dolandırıcının cihazına geçer. Ele geçirilen hesap, kurbanın kişi listesine dolandırıcılık mesajları göndermek için kullanılır.
+
+Şüpheli işaretler:
+- Beklemediğiniz bir doğrulama kodu almanız
+- Tanıdık birinin "yanlışlıkla gönderilen kod" bahanesiyle kod istemesi
+- Mesajın aciliyet içermesi ("hemen gönder, çok acil")
+- Kod isteyen kişinin farklı bir numaradan veya hesaptan yazması
+- Hesabınızın aniden oturumunuzun kapatılması
+
+Nasıl korunulur:
+- Doğrulama kodlarını hiç kimseyle paylaşmayın; bu kodlar yalnızca size aittir.
+- WhatsApp ve diğer uygulamalarda iki adımlı doğrulamayı (PIN) etkinleştirin.
+- Şüpheli kod isteklerinde kişiyi bilinen numarasından arayarak doğrulayın.
+- Hesabınız ele geçirildiyse uygulamayı hemen yeniden kaydedin ve kişilerinizi uyarın.
+- Uygulama ayarlarından "Bağlı Cihazlar"ı kontrol edin ve tanımadığınız cihazları kaldırın.

@@ -1,0 +1,21 @@
+Başlık: Hesap Kilitleme / Askıya Alma Uyarısı Dolandırıcılığı
+
+Tür: E-posta
+
+Nasıl çalışır:
+Kurbana banka, e-posta servisi veya online hizmet sağlayıcısından geliyormuş gibi görünen bir e-posta gönderilir. "Hesabınızda olağandışı etkinlik tespit edildi ve güvenlik nedeniyle kilitlendi", "Hesabınız 24 saat içinde kalıcı olarak kapatılacak" gibi korkutucu ifadeler kullanılır. Hesabı kurtarmak için verilen bağlantıda kullanıcı adı, şifre ve ek güvenlik bilgileri istenir.
+
+Şüpheli işaretler:
+- Acil zaman baskısı ("24 saat / 48 saat içinde hesabınız silinecek")
+- Genel hitap kullanılması (isminizin bilinmemesi)
+- Gönderen adresin resmi alan adıyla uyuşmaması
+- E-postadaki bağlantının farklı bir siteye yönlendirmesi
+- Hesap kurtarma için şifre ve ek güvenlik sorusu yanıtlarının birlikte istenmesi
+- E-posta formatının kurumun normal iletişiminden farklı olması
+
+Nasıl korunulur:
+- Panik yapmayın; e-postadaki bağlantıya tıklamadan önce adresi kontrol edin.
+- Hesabınızın durumunu doğrudan hizmet sağlayıcının resmi sitesinden kontrol edin.
+- Şifrenizi e-posta bağlantısı üzerinden değil, doğrudan resmi siteden değiştirin.
+- 2FA kullanarak hesabınızı ek katmanla koruyun.
+- Şüpheli e-postaları spam olarak işaretleyin ve hizmet sağlayıcıya bildirin.

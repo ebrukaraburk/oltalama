@@ -1,0 +1,23 @@
+Başlık: Kripto Para Dolandırıcılığı
+
+Tür: SMS / Sosyal Medya / URL
+
+Nasıl çalışır:
+Sosyal medyada veya mesajlaşma gruplarında "yeni çıkan coin ile erken yatırımcılara büyük kazanç", "airdrop ile ücretsiz kripto kazan" veya "ünlü yatırımcının gizli kripto stratejisi" gibi vaatlerle mağdur çekilir. Sahte borsalar veya cüzdan uygulamaları aracılığıyla yatırım yapması sağlanır. Bazı dolandırıcılıklar "pump and dump" (şişir ve sat) şeklinde çalışır. Diğerlerinde mağdurun cüzdan gizli anahtarı (seed phrase) ele geçirilir.
+
+Şüpheli işaretler:
+- Garantili veya aşırı yüksek kazanç vaatleri
+- "Sınırlı süre", "son fırsat" gibi aciliyet baskısı
+- Cüzdan gizli anahtarı (seed phrase) veya özel anahtar istenmesi
+- Bilinmeyen veya lisanssız borsa platformları
+- Proje ekibinin anonim veya doğrulanamaz olması
+- Yatırım yapmak için kripto para göndermenizin istenmesi (geri dönüşü olmayan işlem)
+- Sahte müşteri yorumları ve başarı hikayeleri
+
+Nasıl korunulur:
+- Seed phrase ve özel anahtarınızı asla kimseyle paylaşmayın.
+- Yalnızca SPK veya uluslararası düzenleyiciler tarafından lisanslı borsaları kullanın.
+- "Garantili kazanç" vaat eden hiçbir kripto projesine güvenmeyin.
+- Yatırım yapmadan önce projeyi bağımsız kaynaklardan araştırın.
+- Tanımadığınız kişilerin yatırım tavsiyelerine uymayın.
+- Küçük miktarlarla başlayın ve kaybetmeyi göze alabileceğinizden fazlasını yatırmayın.

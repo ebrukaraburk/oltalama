@@ -1,0 +1,23 @@
+Başlık: Sahte E-Ticaret Sitesi Dolandırıcılığı
+
+Tür: URL / Sosyal Medya Reklamı
+
+Nasıl çalışır:
+Sosyal medya reklamları veya arama motoru sonuçları aracılığıyla piyasa fiyatının çok altında ürünler sunan sahte e-ticaret siteleri tanıtılır. Site tasarımı profesyonel görünür ve bilinen markaların logolarını izinsiz kullanabilir. Ödeme yapıldıktan sonra ürün gönderilmez, farklı/düşük kaliteli bir ürün gönderilir veya kart bilgileri kötüye kullanılır.
+
+Şüpheli işaretler:
+- Piyasa fiyatının çok altında fiyatlar (%70-90 indirim iddiaları)
+- Sitenin alan adının yeni kayıt edilmiş olması (WHOIS sorgusu ile kontrol edilebilir)
+- İletişim bilgilerinin eksik veya sahte olması (adres, telefon)
+- Yalnızca havale/EFT veya kripto para ile ödeme kabul edilmesi
+- Müşteri yorumlarının yapay veya kopyalanmış görünmesi
+- İade ve garanti politikasının belirsiz veya bulunmaması
+- SSL sertifikasının olmaması veya alan adıyla uyumsuz olması
+
+Nasıl korunulur:
+- Çok düşük fiyatlara şüpheyle yaklaşın; "gerçek olamayacak kadar iyi" ise muhtemelen öyledir.
+- Sitenin güvenilirliğini WHOIS sorgusu ve kullanıcı yorumlarından araştırın.
+- Bilinen ve güvenilir e-ticaret platformlarını tercih edin.
+- Kredi kartı ile ödeme yapın (geri ödeme hakkı daha güçlüdür); havale/EFT'den kaçının.
+- Sanal kart veya tek kullanımlık kart numarası kullanın.
+- Alışveriş sonrası kart hareketlerinizi kontrol edin.

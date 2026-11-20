@@ -1,0 +1,21 @@
+Başlık: Sosyal Medya Hesap Doğrulama Dolandırıcılığı
+
+Tür: E-posta / DM (Doğrudan Mesaj)
+
+Nasıl çalışır:
+Kurbana sosyal medya platformundan geliyormuş gibi görünen bir e-posta veya doğrudan mesaj gönderilir. "Hesabınız ihlal nedeniyle kapatılacak", "Mavi tik doğrulaması için başvurunuz onaylandı" veya "Telif hakkı ihlali bildirildi" gibi senaryolar kullanılır. Bağlantı, platformun giriş sayfasına benzeyen sahte bir siteye yönlendirir. Kullanıcı adı ve şifre girildikten sonra hesap ele geçirilir.
+
+Şüpheli işaretler:
+- Platformun resmi iletişim yöntemi dışında (DM ile) gelen güvenlik bildirimi
+- Gönderen hesabın doğrulanmamış veya yeni açılmış olması
+- Bağlantının platformun resmi alan adından farklı bir adrese yönlendirmesi
+- Girişten sonra "İşlem başarısız, tekrar deneyin" gibi belirsiz yanıtlar
+- Hesap bilgilerinizin yanı sıra telefon numarası ve e-posta değişikliği istenmesi
+- Yazım hataları ve tutarsız biçimlendirme
+
+Nasıl korunulur:
+- Sosyal medya platformları güvenlik bildirimlerini DM ile göndermez.
+- Hesap ayarlarınızı kontrol etmek için platformun resmi uygulamasını kullanın.
+- İki faktörlü kimlik doğrulamayı (2FA) mutlaka etkinleştirin.
+- Şüpheli bağlantılara tıklamadan URL'yi kontrol edin.
+- Her platform için benzersiz ve güçlü şifreler kullanın.

@@ -1,0 +1,25 @@
+Başlık: Sahte Link (URL) Oluşturma Teknikleri
+
+Tür: URL
+
+Nasıl çalışır:
+Dolandırıcılar, güvenilir kurumlara ait web adreslerine çok benzeyen sahte alan adları kaydettirerek kurbanları kandırır. Temel teknikler şunlardır:
+- Typosquatting: Hedef alan adındaki harflerin değiştirilerek benzer bir adres oluşturulması (ör. "banka" yerine "bannka" veya "banka" yerine "banlka").
+- Homograf saldırısı: Latin harflerine benzeyen Kiril veya diğer alfabelerdeki karakterlerin kullanılması (ör. Latin "a" yerine Kiril "а").
+- Alt alan adı hilesi: Gerçek alan adının alt alan adı olarak kullanılıp asıl alan adının farklı olması (ör. guvenli-banka.saldirgan-site.com).
+- URL kısaltma servisleri: Gerçek hedefi gizlemek için bit.ly, tinyurl gibi servislerin kullanılması.
+- URL'de @ işareti: Tarayıcıların @ işaretinden önceki kısmı yok saymasından yararlanılması.
+
+Şüpheli işaretler:
+- URL'de fazladan veya eksik harfler, tire işaretleri
+- Tanımadığınız üst düzey alan adı uzantıları (.xyz, .top, .click vb.)
+- Birden fazla alt alan adı içeren karmaşık URL yapısı
+- Kısa URL servisleri ile gizlenmiş bağlantılar
+- HTTPS olmasına rağmen sertifikanın farklı bir kuruma ait olması
+
+Nasıl korunulur:
+- Bağlantılara tıklamadan önce URL'yi dikkatle inceleyin; özellikle alan adı kısmına odaklanın.
+- Önemli sitelere her zaman adres çubuğuna elle yazarak gidin.
+- Tarayıcınızın adres çubuğundaki sertifika bilgisini kontrol edin.
+- URL kısaltma servislerinden gelen bağlantıları açmadan önce önizleme araçları ile kontrol edin.
+- Güncel bir tarayıcı ve güvenlik eklentisi kullanın.

@@ -1,0 +1,21 @@
+Başlık: Sahte Müşteri Hizmetleri Dolandırıcılığı
+
+Tür: Telefon / SMS / Arama Motoru
+
+Nasıl çalışır:
+Dolandırıcılar, arama motorlarına reklam vererek veya sahte web sayfaları oluşturarak bankaların, havayollarının veya teknoloji firmalarının müşteri hizmetleri numarasını taklit eder. Mağdur bu numarayı aradığında sahte bir müşteri temsilcisiyle görüşür. Temsilci, "sorunu çözmek" için uzaktan erişim yazılımı kurulmasını, kart bilgilerinin paylaşılmasını veya doğrulama kodu gönderilmesini ister.
+
+Şüpheli işaretler:
+- Arama motorunda üst sıralarda çıkan numaranın resmi site yerine reklam veya üçüncü parti sitede olması
+- Müşteri temsilcisinin uzaktan erişim programı kurmanızı istemesi
+- Görüşmede kart numarası, CVV veya şifre sorulması
+- Temsilcinin işlemi hızlandırmak için baskı yapması
+- Geri arama yerine hatta kalmanızın istenmesi
+- Çözüm için hediye kartı satın almanızın istenmesi
+
+Nasıl korunulur:
+- Müşteri hizmetleri numaralarını yalnızca kurumun resmi web sitesinden, uygulamasından veya kartın arkasından alın.
+- Arama motorlarında reklam olarak çıkan numaralara güvenmeyin.
+- Müşteri temsilcisinin kimliğinden şüpheleniyorsanız telefonu kapatıp resmi numarayı arayın.
+- Müşteri hizmetleri asla CVV, şifre veya uzaktan erişim istemez.
+- Şüpheli numaraları ilgili kuruma ve BTK'ya bildirin.

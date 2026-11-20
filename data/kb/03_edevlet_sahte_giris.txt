@@ -1,0 +1,20 @@
+Başlık: e-Devlet Sahte Giriş Sayfası Dolandırıcılığı
+
+Tür: SMS / URL
+
+Nasıl çalışır:
+Vatandaşlara "e-Devlet şifreniz sıfırlanmalıdır", "Yeni bir devlet yardımı için başvurunuz onaylandı" veya "Vergi iade işleminiz hazır" gibi SMS veya e-posta gönderilir. Mesajdaki bağlantı, e-Devlet giriş sayfasını birebir kopyalayan sahte bir siteye yönlendirir. TC kimlik numarası ve şifre girildikten sonra bu bilgiler dolandırıcının eline geçer ve mağdurun e-Devlet hesabına erişim sağlanır.
+
+Şüpheli işaretler:
+- e-Devlet'in resmi alan adı (turkiye.gov.tr) dışında bir adrese yönlendirme
+- SMS ile e-Devlet şifre sıfırlama bağlantısı gönderilmesi (e-Devlet bunu yapmaz)
+- Giriş sonrası ikinci bir "doğrulama" sayfasında banka veya kart bilgisi istenmesi
+- URL'de HTTPS sertifikasının olmaması veya farklı bir kuruma ait olması
+- Acil süre baskısı içeren mesaj dili
+
+Nasıl korunulur:
+- e-Devlet'e her zaman tarayıcınıza turkiye.gov.tr yazarak girin.
+- e-Devlet SMS ile şifre sıfırlama bağlantısı göndermez; böyle bir mesaj sahte olduğunu gösterir.
+- e-Devlet şifrenizi hiçbir üçüncü taraf siteye girmeyin.
+- e-Devlet girişinde e-imza veya mobil imza tercih edin.
+- Şüpheli durumları ALO 181 hattına bildirin.

@@ -1,0 +1,20 @@
+Başlık: QR Kod Dolandırıcılığı (Quishing)
+
+Tür: URL / Fiziksel
+
+Nasıl çalışır:
+Dolandırıcılar, sahte QR kodlarını meşru QR kodların üzerine yapıştırarak veya e-posta/broşür ile dağıtarak kurbanları kötü amaçlı web sitelerine yönlendirir. Restoran menüleri, park otomat makineleri, paylaşımlı bisiklet/scooter istasyonları, sahte trafik cezası bildirimleri gibi yerlerde kullanılır. QR kod tarandığında kurban, kimlik avı sayfasına, zararlı yazılım indirme bağlantısına veya sahte ödeme sayfasına yönlendirilir.
+
+Şüpheli işaretler:
+- QR kodun mevcut bir kodun üzerine yapıştırılmış (sticker) görünmesi
+- Taranan QR kodun beklenmeyen bir URL'ye yönlendirmesi
+- QR kod tarandıktan sonra uygulama indirme veya oturum açma istenmesi
+- Ödeme QR kodunun resmi ödeme sistemleri yerine bilinmeyen bir sayfaya yönlendirmesi
+- QR kodla birlikte gelen mesajın aciliyet içermesi
+
+Nasıl korunulur:
+- QR kodu taramadan önce fiziksel olarak kontrol edin (üzerine yapıştırılmış mı?).
+- QR kod okuyucunuzun bağlantıyı açmadan önce URL'yi göstermesini sağlayın.
+- Tanımadığınız URL'lere yönlendiren QR kodları açmayın.
+- Halka açık yerlerdeki QR kodlara ödeme bilgisi girmeden önce işletmeye sorun.
+- Telefonunuzun işletim sistemini ve güvenlik yazılımını güncel tutun.

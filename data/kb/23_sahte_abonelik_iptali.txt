@@ -1,0 +1,21 @@
+Başlık: Sahte Abonelik İptali / Yenileme Dolandırıcılığı
+
+Tür: E-posta
+
+Nasıl çalışır:
+Mağdura bilinen bir yazılım, yayın platformu veya antivirüs firmasından geliyormuş gibi görünen bir e-posta gönderilir. "Aboneliğiniz otomatik olarak yenilendi ve hesabınızdan X TL çekilecektir", "İstemiyorsanız iptal etmek için tıklayın" denilir. Mağdur panikle iptal bağlantısına tıklar ve sahte sayfada kart bilgileri, hesap şifresi veya uzaktan erişim izni verir. Bazı varyantlarda e-postada bir telefon numarası verilir ve arayan mağdurdan uzaktan erişim sağlanması istenir.
+
+Şüpheli işaretler:
+- Sahip olmadığınız bir hizmete ait abonelik yenileme bildirimi
+- Yüksek bir tutar belirtilerek panik yaratılması
+- İptal için kart bilgisi veya şifre istenmesi
+- E-postanın gönderen adresinin resmi şirket adresiyle uyuşmaması
+- İptal sürecinde uzaktan erişim yazılımı kurmanızın istenmesi
+- E-postadaki fatura numarasının veya müşteri numarasının doğrulanamaması
+
+Nasıl korunulur:
+- E-postadaki bağlantılara tıklamadan önce aboneliklerinizi kontrol edin.
+- Gerçek aboneliklerinizi hizmet sağlayıcının resmi sitesinden veya uygulamasından yönetin.
+- Banka hesap hareketlerinizi kontrol ederek gerçekten bir çekim yapılıp yapılmadığını doğrulayın.
+- Şüpheli e-postalardaki telefon numaralarını aramayın; resmi numarayı web sitesinden bulun.
+- Uzaktan erişim isteyen "iptal" süreçlerine asla izin vermeyin.

@@ -1,0 +1,20 @@
+Başlık: Kredi Kartı Limit Artırma Dolandırıcılığı
+
+Tür: SMS / Telefon
+
+Nasıl çalışır:
+Mağdura banka adına SMS veya telefon araması yapılarak "Kredi kartı limitiniz artırılmıştır, onaylamak için bağlantıya tıklayın" veya "Limit artışı kampanyasından yararlanmak için kart bilgilerinizi doğrulayın" denilir. Sahte bağlantıda veya telefonda kart numarası, son kullanma tarihi, CVV kodu ve SMS doğrulama kodu istenir. Bu bilgilerle karttan alışveriş veya para çekme işlemi gerçekleştirilir.
+
+Şüpheli işaretler:
+- Talep etmediğiniz bir limit artışı bildirimi
+- Kart numarası, CVV ve son kullanma tarihinin birlikte istenmesi
+- SMS ile gelen doğrulama kodunun paylaşılmasının beklenmesi
+- Arayanın "banka güvenlik birimi" olduğunu iddia etmesi
+- İşlemin acil olduğu, aksi hâlde kartınızın bloke edileceği tehdidi
+
+Nasıl korunulur:
+- Bankalar telefon veya SMS ile CVV ve doğrulama kodu istemez.
+- Limit artışı talebini yalnızca bankanın resmi uygulaması veya şubesinden yapın.
+- Şüpheli aramalarda telefonu kapatıp kartınızın arkasındaki resmi numarayı arayın.
+- Kart hareketlerinizi düzenli kontrol edin ve bildirim servisini aktif edin.
+- Kartınızda internet alışverişi limitini düşük tutun ve sanal kart kullanın.

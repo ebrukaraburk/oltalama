@@ -1,0 +1,22 @@
+Başlık: Sahte Sigorta Teklifi Dolandırıcılığı
+
+Tür: E-posta / Telefon
+
+Nasıl çalışır:
+Mağdura "piyasanın çok altında sigorta primi", "ücretsiz kasko/sağlık sigortası" veya "mevcut poliçeniz iptal edilecek, yenilenmesi gerekiyor" gibi tekliflerle ulaşılır. Sahte sigorta acentesi olarak davranan dolandırıcı, TC kimlik numarası, ehliyet bilgisi, sağlık verileri ve ödeme bilgilerini toplar. Mağdur prim ödediğini sanır ama gerçekte herhangi bir sigorta poliçesi oluşturulmaz. Hasar anında sigortasız olduğu ortaya çıkar.
+
+Şüpheli işaretler:
+- Piyasa fiyatının çok altında sigorta primi teklifi
+- Poliçenin görüntülenmemesi veya e-posta ile gönderilmemesi
+- Ödemenin kişisel hesaba yapılmasının istenmesi
+- Sigorta şirketinin SEDDK (Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu) kaydının olmaması
+- Acentenin TOBB acente sicil kaydının doğrulanamaması
+- Poliçe numarası sorulduğunda geçiştirici yanıt verilmesi
+
+Nasıl korunulur:
+- Sigorta şirketinin SEDDK'da kayıtlı olduğunu kontrol edin.
+- Acenteyi TOBB acente sorgulamasından doğrulayın.
+- Poliçe bilgilerinizi SBM (Sigorta Bilgi ve Gözetim Merkezi) üzerinden kontrol edin.
+- Primi kişisel hesaba değil, sigorta şirketi hesabına yatırın.
+- Çok düşük fiyat tekliflerine şüpheyle yaklaşın.
+- Poliçenizin bir kopyasını mutlaka yazılı olarak isteyin.

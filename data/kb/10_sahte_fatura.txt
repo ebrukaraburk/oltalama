@@ -1,0 +1,21 @@
+Başlık: Sahte Fatura Bildirimi Dolandırıcılığı
+
+Tür: E-posta / SMS
+
+Nasıl çalışır:
+Kurbanın e-postasına veya telefonuna elektrik, doğalgaz, internet veya telefon faturasına ait sahte bir ödeme bildirimi gönderilir. "Son ödeme tarihi bugün", "Hattınız/aboneliğiniz kesilecek" gibi aciliyet yaratan ifadeler kullanılır. Bağlantıya tıklayan mağdur, gerçek bir hizmet sağlayıcısına benzeyen sahte ödeme sayfasına yönlendirilir ve kart bilgileri çalınır.
+
+Şüpheli işaretler:
+- Fatura tutarının normalden farklı olması
+- Fatura döneminin tutarsız olması (ör. daha yeni ödeme yaptığınız hâlde)
+- Gönderen adresin resmi kurum adresiyle uyuşmaması
+- Ödeme için kısa URL veya alışılmadık bir bağlantı verilmesi
+- E-postada ek olarak gönderilen dosyanın .exe, .scr veya .zip formatında olması
+- "Bugün ödenmezse hizmetiniz kesilecek" gibi aşırı baskıcı dil
+
+Nasıl korunulur:
+- Faturalarınızı yalnızca hizmet sağlayıcınızın resmi uygulamasından veya web sitesinden kontrol edin.
+- E-postadaki bağlantılara veya eklere tıklamayın.
+- Otomatik ödeme talimatı vererek sahte fatura riskini azaltın.
+- Fatura tutarınızı resmi kanallardan karşılaştırmalı olarak doğrulayın.
+- Şüpheli bildirimleri hizmet sağlayıcınıza iletin.

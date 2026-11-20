@@ -1,0 +1,21 @@
+Başlık: Sahte Vergi İadesi Dolandırıcılığı
+
+Tür: E-posta / SMS
+
+Nasıl çalışır:
+Mağdura Gelir İdaresi Başkanlığı veya Maliye Bakanlığı adına sahte bir e-posta veya SMS gönderilir. "Vergi iadeniz hazır, almak için bilgilerinizi doğrulayın" veya "Fazla ödenen verginizin iadesi için başvurunuz onaylandı" denilir. Bağlantı, resmi kurumun sitesine benzeyen sahte bir forma yönlendirir. Formda TC kimlik numarası, banka hesap bilgileri ve kart bilgileri istenir.
+
+Şüpheli işaretler:
+- Vergi iadesi için başvuru yapmamış olmanıza rağmen bildirim almanız
+- E-postanın resmi kurum alan adı yerine ücretsiz e-posta servisinden gelmesi
+- İade almak için kart bilgileri veya CVV istenmesi
+- Acil süre sınırı ile baskı yapılması
+- Resmi kurum logolarının düşük kaliteli veya bozuk görünmesi
+- Bağlantının gib.gov.tr dışında bir adrese yönlendirmesi
+
+Nasıl korunulur:
+- Vergi iadesi işlemlerini yalnızca Gelir İdaresi Başkanlığı'nın resmi sitesi (gib.gov.tr) veya e-Devlet üzerinden takip edin.
+- Devlet kurumları e-posta ile kart bilgisi veya CVV istemez.
+- İade bildirimi aldığınızda resmi vergi dairesi ile iletişime geçerek doğrulayın.
+- E-postadaki bağlantılara tıklamayın; resmi siteyi tarayıcınıza elle yazın.
+- Şüpheli e-postaları GİB'e ve BTK'ya bildirin.
